@@ -11,9 +11,9 @@ void setup(){
 }
 
 void draw(){
-  background(10);
-  fill(#C11010);
-  stroke(#FCF32E);
+  background(300);
+  fill(#808000);
+  stroke(#800000);
   dibujarRec();
 }
 
